@@ -15,6 +15,3 @@
 *.aliases
 *.lvlps
 .cache/
-
-# misc
-*.png
