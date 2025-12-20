@@ -1,42 +1,16 @@
-# LabVIEW FPGA Self-Paced Learning
+# LabVIEW and LabVIEW FPGA Self-Paced Learning
 
-This repository documents my journey learning LabVIEW FPGA through hands-on projects and exercises.
+This repository documents my journey learning LabVIEW and LabVIEW FPGA through hands-on projects and exercises.
 
-## Projects
+## Labview
 - Project 1: [Brief description]
 - Project 2: [Brief description]
 
+## FPGA
+
 ## Hardware/Software
-- LabVIEW version: [e.g., 2023]
-- Target hardware: [e.g., myRIO, cRIO, etc.]
-- Additional modules: [FPGA Module, etc.]
+- LabVIEW version: 2025 Q3 (64-bit)
+- Target hardware: USB-7855R, USB-7856R
 
 ## Learning Resources
 [List courses, books, tutorials you're following]
-
-## Progress
-[Optional: track your learning milestones]
-```
-
-## 3. **Organize Your Directory Structure**
-```
-labview-fpga-self-paced/
-├── README.md
-├── .gitignore
-├── project-01-basic-digital-io/
-│   ├── README.md
-│   └── [VI files]
-├── project-02-counters/
-│   ├── README.md
-│   └── [VI files]
-└── resources/
-    └── [documentation, notes]
-```
-
-## 4. **Create a LabVIEW .gitignore**
-```
-# LabVIEW files
-*.aliases
-*.lvlps
-*.lock
-*.log
