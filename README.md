@@ -13,4 +13,4 @@ This repository documents my journey learning LabVIEW and LabVIEW FPGA through h
 - Target hardware: USB-7855R, USB-7856R
 
 ## Learning Resources
-[List courses, books, tutorials you're following]
+1. [The Complete LabVIEW Essentials - Code & Acquire Data Now](https://www.udemy.com/course/learnlabview/)
